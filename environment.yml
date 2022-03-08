@@ -1,0 +1,13 @@
+name: lts-sol
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - gdal
+  - localtileserver[colormaps,jupyter]
+  - shapely
+  - pip
+  - jupyterlab
+  - ipywidgets
+  - ipyleaflet
+  - folium
