@@ -8,10 +8,11 @@ dependencies:
   - colorcet
   - cmocean
   - gdal
-  - localtileserver[colormaps,jupyter]
+  - localtileserver
   - shapely
   - pip
   - jupyterlab
   - ipywidgets
   - ipyleaflet
   - folium
+  - jupyter-server-proxy
