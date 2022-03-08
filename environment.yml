@@ -3,6 +3,10 @@ channels:
   - conda-forge
   - default
 dependencies:
+  - numpy
+  - matplotlib
+  - colorcet
+  - cmocean
   - gdal
   - localtileserver[colormaps,jupyter]
   - shapely
