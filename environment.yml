@@ -7,7 +7,7 @@ dependencies:
   - matplotlib
   - colorcet
   - cmocean
-  - gdal
+  - gdal=3
   - localtileserver
   - shapely
   - pip
